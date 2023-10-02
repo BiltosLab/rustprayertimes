@@ -1,7 +1,7 @@
 # RustPrayerTimes
 
 
-#very basic prayertimes app 
+very basic prayertimes app in rust still needs alot of tuning 
 
 
 ## Resources used
