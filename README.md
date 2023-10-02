@@ -4,6 +4,6 @@
 #very basic prayertimes app 
 
 
-##Resources used
+## Resources used
 
 1-http://praytimes.org/calculation
