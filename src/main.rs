@@ -130,7 +130,7 @@ fn ishatime(duhur:f64,lat:f64,selector:&str,maghrib:f64,isramadan:bool)->f64{ //
             "UMQURA"=> isha= isha_umqura(isramadan,maghrib),
             "UISK"=> isha=duhur + bigT(18.0, lat),
             "TEHRAN"=> isha=duhur + bigT(14.0, lat),
-            "SHIA"=> println!("Dont use my app if your a shia DOGGIE"),
+            "SHIA"=> println!("Dont use my app if you're a shia DOGGIE"),
 
             _ => println!("Error"),
         }
